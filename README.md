@@ -1,6 +1,4 @@
-## Hey, I'm Miklos!  👋
-
-I'm currently studying robotics and autonomous systems at the University of Luebeck.
+## Hey, I'm Nico!  👋
 
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mlibak)
 
